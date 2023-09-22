@@ -35,3 +35,8 @@ Course of Events:
    (either gets taken back to the homescreen to login in/ Gets logged in automattically after confirmation of signing up.
    
 ****
+#3. Use-Case [HomePage Screen]
+
+Actors: New and Old Users.
+
+Overview: 
