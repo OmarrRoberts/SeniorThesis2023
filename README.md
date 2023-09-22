@@ -15,3 +15,4 @@ Course of Events:
         2: provide password recovery
         3: prompt to enter email.
         4: go back to step one.
+#2. Use-Case [Sign-up Page]
