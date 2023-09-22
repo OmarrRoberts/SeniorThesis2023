@@ -15,7 +15,7 @@ Course of Events:
         2: provide password recovery
         3: prompt to enter email.
         4: go back to step one.
-        
+  ****
 #2. Use-Case [Sign-up Page]
 Actors: New Users
 Overview: Users that dont have an account will be prompted to enter in a set of information to create their account it also includes a sepcial feature to be able to link an account to an existing (family) group or to create a new group.
