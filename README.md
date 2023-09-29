@@ -47,3 +47,25 @@ Course of Events:
 3. user selects chooses a selection.
 
 ****
+#4. Profile Page
+
+Actors: Users
+
+Overview: User will br taken to the account interface being shown several other selections: View Uploaded, View group(Family) Recipies, Personal Information. 
+
+Course of Events:
+
+1. Select one of the selections or Edit Account
+2. Prompt to edit Account or change group.
+3. Enter in informtion.
+4. prompt to save before exit.
+
+****
+
+
+
+
+
+
+
+
