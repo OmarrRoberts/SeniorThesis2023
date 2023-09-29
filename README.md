@@ -62,6 +62,18 @@ Course of Events:
 
 ****
 
+UseCase: Recipe Search
+
+Actor: User/Guest
+
+OverVeiw: User enters page after selections and gets presented with a layout presenting a search for recupies by Region, or by Season, Food Genre, Cultural Food, then prompts options to search and then presents recipies in the file.
+
+1. Uses Homepage.
+2. User gets greeted with optons to customize search.
+3. click sort by and get prompted options to select.
+4. Pulls up (database) Recipies and displays the slections for users.
+
+****
 
 
 
