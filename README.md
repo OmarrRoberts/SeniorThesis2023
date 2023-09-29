@@ -39,4 +39,11 @@ Course of Events:
 
 Actors: New and Old Users.
 
-Overview: 
+Overview: User will be taken to a main page where they will be presented with options to pick from: Profile page, Recipe Upload.
+
+Course of Events:
+1. Uses Login page
+2. displays selections for users unpon loading homepage
+3. user selects chooses a selection.
+
+****
