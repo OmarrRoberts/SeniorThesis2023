@@ -82,13 +82,14 @@ Actor: Users/Members
 Overview: After selecting this option from the homepage the user will be taken to an interface where they will be able to upload their own recipe which will be organized by various elements of the recipe. With the option of making the upload private or public.
 
 Course Of Events:
+
 1.Uses Homepage
 2.User gets taken to recipe upload screen and gets promted to enter information
 3.User fill in family recipe.
 4.Before leaving the user gets prompted to make the recipe public or private. 
 5. promts user to save and complete.
 6.Recipe gets uploaded and can be viewed from the profile page.
-
+****
 
 
 
