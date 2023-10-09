@@ -83,12 +83,12 @@ Overview: After selecting this option from the homepage the user will be taken t
 
 Course Of Events:
 
-1.Uses Homepage
-2.User gets taken to recipe upload screen and gets promted to enter information
-3.User fill in family recipe.
-4.Before leaving the user gets prompted to make the recipe public or private. 
-5. promts user to save and complete.
-6.Recipe gets uploaded and can be viewed from the profile page.
+  1. Uses Homepage
+  2. User gets taken to recipe upload screen and gets promted to enter information
+  3. User fill in family recipe.
+  4. Before leaving the user gets prompted to make the recipe public or private. 
+  5. promts user to save and complete.
+  6. Recipe gets uploaded and can be viewed from the profile page.
 ****
 
 
