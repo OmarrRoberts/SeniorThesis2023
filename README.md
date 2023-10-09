@@ -39,7 +39,7 @@ Course of Events:
 
 Actors: New and Old Users.
 
-Overview: User will be taken to a main page where they will be presented with options to pick from: Profile page, Recipe Upload.
+Overview: User will be taken to a main page where they will be presented with options to pick from: Profile page, Recipe Upload, Recipe Search.
 
 Course of Events:
 1. Uses Login page
@@ -68,6 +68,7 @@ Actor: User/Guest
 
 OverVeiw: User enters page after selections and gets presented with a layout presenting a search for recupies by Region, or by Season, Food Genre, Cultural Food, then prompts options to search and then presents recipies in the file.
 
+Course of Events
 1. Uses Homepage.
 2. User gets greeted with optons to customize search.
 3. click sort by and get prompted options to select.
@@ -75,6 +76,18 @@ OverVeiw: User enters page after selections and gets presented with a layout pre
 
 ****
 
+UseCase: Recipe Upload
+
+Actor: Users/Members
+Overview: After selecting this option from the homepage the user will be taken to an interface where they will be able to upload their own recipe which will be organized by various elements of the recipe. With the option of making the upload private or public.
+
+Course Of Events:
+1.Uses Homepage
+2.User gets taken to recipe upload screen and gets promted to enter information
+3.User fill in family recipe.
+4.Before leaving the user gets prompted to make the recipe public or private. 
+5. promts user to save and complete.
+6.Recipe gets uploaded and can be viewed from the profile page.
 
 
 
